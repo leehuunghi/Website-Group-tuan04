@@ -1,0 +1,44 @@
+
+ #tab1{
+ 	box-shadow: 1px 1px 1px 1px grey;
+ 	margin-top:80px;
+ 	width: 900px;
+ 	height: 426px;
+ }
+
+ #tab2{
+
+ 	width:580px;
+ 	height: 100%;
+ 	font-size: 20px;
+ }
+
+#avt{
+	box-shadow: 1px 1px 1px 1px grey;
+	margin-left: 0px;
+	margin-right: 0px;
+	top: 0px;
+	width: 320px;
+	height: 426px;
+	padding: 0px;
+}
+li {
+		float: left;
+		width: 33%;
+		height: 42px;
+		font-size: 24px;
+		list-style: none;
+		text-align: center;
+		border-right: 1px solid gray;
+	}
+
+a{
+	color: black;
+}
+
+#column{
+	padding-left: 30px;
+	font-weight: bold;
+}
+
+

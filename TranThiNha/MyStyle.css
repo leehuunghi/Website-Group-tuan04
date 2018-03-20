@@ -1,0 +1,53 @@
+#divbig{
+	position: relative;
+	box-shadow: 1px 1px 1px 2px grey;
+	margin-top:0px;
+	margin-left: 20%;
+	align-content: center;
+ 	width: 60%;
+}
+ 
+ li {
+		height: 80px;
+		font-size: 24px;
+		list-style: none;
+		text-align: center;
+		border-right: 1px solid gray;
+	}
+
+a{
+	color: black;
+}
+
+#hinh{
+	position: absolute;
+	z-index: 1;
+	margin-left: 40%;
+	top: 100px;
+	width: 300px;
+	height: 300px;
+
+}
+
+
+#tab2{
+
+ 	width:580px;
+ 	height: 100%;
+ 	font-size: 20px;
+ }
+
+#column{
+	padding-left: 30px;
+	font-weight: bold;
+	padding: 7px;
+}
+
+#tab{
+	margin-top: 150px;
+
+}
+
+content{
+	margin-left: 40px;
+}
