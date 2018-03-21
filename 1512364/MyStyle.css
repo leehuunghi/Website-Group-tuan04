@@ -31,10 +31,11 @@ a{
 
 
 #tab2{
-
  	width:580px;
  	height: 100%;
  	font-size: 20px;
+ 	align-items: center;
+ 	margin-left: 20px;
  }
 
 #column{
@@ -44,10 +45,20 @@ a{
 }
 
 #tab{
-	margin-top: 150px;
+	margin-top: 110px;
 
 }
 
 content{
 	margin-left: 40px;
+}
+
+nav{
+	width: 150px;
+	padding-top: 25px;
+}
+
+ul{
+	margin-left: 0px;
+	padding-left: 0px;
 }

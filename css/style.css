@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    font-family: 'Montserrat';
+    background-color: #fafafa;
+}
+
+.mem{
+	width: 1000px;
+}
+
+.mem1{
+	width: 431px;
+	border: none;
+	opacity: 0.65;
+	transition: opacity 1s;
+}
+
+.mem1:hover{
+	opacity: 1;
+	transition: opacity 1s;
+	-webkit-filter: drop-shadow(15px 15px 15px #ddd);
+  	filter: drop-shadow(15px 15px 15px #ddd);
+}
+
+.mem2{
+	width: 376px;
+	margin-top: -830px;
+	margin-left: 269.5px;
+	float: left;
+	opacity: 0.65;
+	transition: opacity 1s;
+}
+
+.mem2:hover{
+	opacity: 1;
+	transition: opacity 1s;
+	-webkit-filter: drop-shadow(15px 15px 15px #ddd);
+  	filter: drop-shadow(15px 15px 15px #ddd));
+}
+
+.mem3{
+	width: 376px;
+	border: none;
+	margin-top: -622px;
+	margin-left: 342px;
+	float: left;
+	opacity: 0.65;
+	transition: opacity 1s;
+}
+
+.mem3:hover{
+	opacity: 1;
+	-webkit-filter: drop-shadow(15px 15px 15px #ddd);
+  	filter: drop-shadow(15px 15px 15px #ddd);
+  	transition: opacity 1s;
+}
+
+.mem-text{
+	margin-top: -800px;
+	margin-right: 50px;
+	float: right;
+}
+
+.info-bg{
+	display: block;
+	color: #000;
+	width: 400px;
+	float: right;
+	margin-top: 20px;
+	padding: 20px;
+	background: #fff;
+	border-radius: 10px;
+	box-shadow: 2px 3px 40px 2px #eee;
+}
+
+.info-bg:hover{
+	width: 400px;
+	float: right;
+	margin-top: 20px;
+	padding: 20px;
+	box-shadow: 2px 3px 40px 2px #ddd;
+}
+
+.info-ava {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    box-shadow: 2px 3px 40px 2px #eee;
+    float: left;
+}
+
+.info-content{
+	float: left;
+	padding-left: 20px;
+	padding-top: 8px;
+	line-height: 25pt;
+}
